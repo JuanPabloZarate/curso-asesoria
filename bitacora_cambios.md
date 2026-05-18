@@ -14,6 +14,8 @@ Esta bitácora registra cronológicamente las acciones, cambios e implementacion
 | 2026-05-17 20:40 | **Step 3: definir tareas** | Modificación | [Requerimiento_Informe_Infraestructura_Fie_Global.md](file:///c:/Users/Juan%20Pablo/Desktop/Curso%20Asesoria/data%20procesada/Requerimiento_Informe_Infraestructura_Fie_Global.md) | Actualización del estado de historia de usuario de `"Para procesar"` a `"Procesado"` una vez generada la historia de usuario correspondiente. | Antigravity | **Completado** |
 | 2026-05-17 20:42 | **Fase de Registro** | Creación | [bitacora_cambios.md](file:///c:/Users/Juan%20Pablo/Desktop/Curso%20Asesoria/bitacora_cambios.md) | Creación e inicialización del registro global de cambios para cumplir con el reglamento del proyecto. | Antigravity | **Completado** |
 | 2026-05-18 00:29 | **Publicación** | Ejecución | `.git/` | Inicialización del repositorio Git local y creación del commit inicial con todos los archivos del proyecto como paso previo a la publicación en GitHub. | Antigravity | **Completado** |
+| 2026-05-18 00:33 | **Publicación** | Ejecución | `GitHub` | Vinculación del repositorio local al remoto proporcionado y publicación exitosa del código fuente en la rama main de GitHub. | Antigravity | **Completado** |
+
 
 ---
 
