@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia de Usuarios/Tarea_Elaboracion_Informe_Infraestructura_Fie_Global.md",
+                "file": "Backlog/Matriz_Historias_Usuario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea_Elaboracion_Informe_Infraestructura_Fie_Global"
+              "title": "Matriz_Historias_Usuario"
             }
           }
         ]
@@ -183,9 +183,17 @@
   },
   "active": "0b57368f33c1434f",
   "lastOpenFiles": [
+    "data procesada/Requerimiento_Gestion_Chatbot_Ditobanx.md",
+    "Data Crudo procesada/Conversasion_Jefe.md",
     "data procesada/Requerimiento_Informe_Infraestructura_Fie_Global.md",
     "Historia de Usuarios/Tarea_Elaboracion_Informe_Infraestructura_Fie_Global.md",
+    "Historia de Usuarios/Tarea_Gestion_Chatbot_Ditobanx.md",
+    "README.md",
     "data crudo/Conversasion_Jefe.md",
+    "Backlog/Matriz_Historias_Usuario.md",
+    "Backlog/Tablero_Seguimiento.md",
+    "Backlog",
+    "Data Crudo procesada",
     "bitacora_cambios.md",
     "data crudo/Conversasion_Jefe",
     "data procesada/Tarea_Flujo_Reversion_Fie_Global.md",

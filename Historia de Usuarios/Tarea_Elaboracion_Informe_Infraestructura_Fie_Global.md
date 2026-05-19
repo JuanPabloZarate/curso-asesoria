@@ -1,46 +1,47 @@
 ---
 tipo: Tarea
 subtipo: "Administrativo"
-prioridad: "Media"
-responsable: "Asesor / Analista"
-fecha_creacion: "2026-05-17"
+prioridad: "Alta"
+responsable: "Asesor / Analista de Tecnología"
+fecha_creacion: "2026-05-18"
 ---
 
 # 🛠️ Tarea: Elaboración de Informe de Infraestructura Tecnológica de FIE GLOBAL
 
 ## 📋 Resumen del Requerimiento
-- **Clasificación:** Tarea
-- **Tipo de Requerimiento:** Administrativo
-- **Prioridad Sugerida:** Media (Ejecución prioritaria por fecha límite)
-- **Solicitante / Origen:** Conversación con el Jefe (17/05/2026)
-- **Responsable:** Asesor / Analista
+- **Clasificación:** [[.agents/skills/Matriz_de_clasificacion|Tarea]]
+- **Tipo de Requerimiento:** [[.agents/skills/Matriz_de_clasificacion|Administrativo]]
+- **Prioridad Sugerida:** Media
+- **Prioridad de Ejecución:** Alta (Urgente debido al plazo de entrega)
+- **Solicitante / Origen:** Jefe
+- **Responsable:** Asesor / Analista de Tecnología
 
 ---
 
 ## 👤 Historia de Usuario (Básica)
-- **COMO:** Asesor / Analista de FIE GLOBAL
-- **QUIERO:** Elaborar y consolidar un informe detallado sobre el estado de la infraestructura tecnológica que aborde firma digital, chatbot e infraestructura operativa
-- **PARA:** Presentar la situación tecnológica actual al Jefe el martes 20 de mayo de 2026 y asegurar la toma de decisiones informada.
+- **COMO:** Asesor de Tecnología del proyecto FIE GLOBAL
+- **QUIERO:** Elaborar y estructurar un informe formal de la infraestructura tecnológica que cubra firma digital, gestión de chatbot e infraestructura operativa
+- **PARA:** Presentarlo a la jefatura el martes 21 de mayo de 2026 (sujeto a aclaración de fecha) y habilitar la correcta planificación de mantenimientos y mejoras operativas.
 
 ---
 
 ## 🎯 Criterios de Aceptación
 Para dar esta tarea como finalizada con éxito, se deben cumplir los siguientes puntos:
-- [ ] **Criterio 1:** El informe debe contener una sección descriptiva y analítica detallando el estado actual del **Onboarding con Firma Digital**.
-- [ ] **Criterio 2:** El informe debe contener una sección dedicada a la **Gestión del Chatbot**, incluyendo sus integraciones y capacidades operativas.
-- [ ] **Criterio 3:** El informe debe detallar el estado y arquitectura de la **Infraestructura Operativa** que soporta FIE GLOBAL.
-- [ ] **Criterio 4:** El entregable debe presentarse formalmente en el plazo establecido (martes 20 de mayo de 2026).
+- [ ] **Criterio 1:** El informe debe estar escrito en formato Markdown y estructurado claramente con secciones independientes para: (a) Onboarding Firma Digital, (b) Gestión de Chatbot, y (c) Infraestructura Operativa.
+- [ ] **Criterio 2:** La sección de Firma Digital debe detallar el flujo técnico de onboarding, y la de chatbot debe describir el modelo de interacción.
+- [ ] **Criterio 3:** El informe debe ser validado formal y gramaticalmente antes de la entrega final.
 
 ---
 
 ## 🛠️ Plan de Ejecución y Desglose Técnico
 Pasos detallados para la realización de la tarea:
-1. **Paso 1 (Recopilación):** Entrevistar a los responsables técnicos y recopilar información detallada sobre la firma digital (proveedor, flujo de onboarding), el chatbot (proveedor, reglas de chat, IA) y la infraestructura operativa (servidores, base de datos).
-2. **Paso 2 (Redacción):** Estructurar y redactar el informe bajo un formato profesional y corporativo, dividiéndolo en las tres secciones principales requeridas.
-3. **Paso 3 (Revisión y Entrega):** Realizar la revisión de calidad del documento, corregir ortografía y estilo, y preparar la presentación final para la reunión con el jefe el 20 de mayo de 2026.
+1. **Paso 1:** Investigar y recopilar el estado actual del onboarding de firma digital en FIE GLOBAL.
+2. **Paso 2:** Documentar el modelo y estado de gestión del chatbot de atención actual.
+3. **Paso 3:** Realizar un relevamiento de la infraestructura operativa (servidores, bases de datos, redes) de FIE GLOBAL.
+4. **Paso 4:** Redactar, estructurar y revisar el informe técnico, consolidándolo en formato Markdown.
 
 ---
 
 ## 🔗 Referencias y Contexto
-- **Solicitud de Origen:** Solicitud verbal/escrita del Jefe registrada el 17/05/2026 en `Conversasion_Jefe.md`.
-- **Impacto:** Permite al liderazgo conocer el estado de infraestructura de tres pilares críticos de FIE GLOBAL para la planificación de mejoras y soporte continuo.
+- **Solicitud de Origen:** [[Conversasion_Jefe.md]] (ubicado en `Data Crudo procesada/Conversasion_Jefe.md` tras su procesamiento).
+- **Impacto:** Afecta directamente la visibilidad de la jefatura sobre los activos e integraciones de FIE GLOBAL y la toma de decisiones para su escalabilidad.

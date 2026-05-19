@@ -1,0 +1,11 @@
+## 🗺️ Matriz General de Factores (Vista Comparativa)
+
+Esta matriz consolida todos los factores de clasificación y ejecución de las historias de usuario del proyecto en concordancia con la [[.agents/skills/Matriz_de_clasificacion|Matriz de Clasificación de Requerimientos]]:
+
+| ID / Ref   | Historia de Usuario / Tarea                                                                                                                                                                                    | Clasificación / Subtipo     | Prioridad Sugerida | Prioridad Ejecución  | Responsable                     | Solicitante | Impacto / Valor de Negocio                                                                                  |   Estado   |
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :----------------: | :------------------: | :------------------------------ | :---------- | :---------------------------------------------------------------------------------------------------------- | :--------: |
+| **HU-001** | [Elaboración de Informe de Infraestructura Tecnológica de FIE GLOBAL](file:///c:/Users/Juan%20Pablo/Desktop/Curso%20Asesoria/Historia%20de%20Usuarios/Tarea_Elaboracion_Informe_Infraestructura_Fie_Global.md) | [[.agents/skills/Matriz_de_clasificacion\|Tarea / Administrativo]]      |       Media        | **Alta** *(Urgente)* | Asesor / Analista de Tecnología | Jefe        | Crítico para planificar la migración, mejoras y mantenimiento preventivo.                                   | 📥 Backlog |
+| **HU-002** | [Gestión de Chatbot e Integración con Ditobanx](file:///c:/Users/Juan%20Pablo/Desktop/Curso%20Asesoria/Historia%20de%20Usuarios/Tarea_Gestion_Chatbot_Ditobanx.md)                                             | [[.agents/skills/Matriz_de_clasificacion\|Tarea / Técnico]] |        Alta        |       **Alta**       | Asesor / Analista de Tecnología | Jefe        | Habilita capacidades operativas críticas de atención automatizada y transaccionalidad Fintech con Ditobanx. | 📥 Backlog |
+
+---
+
