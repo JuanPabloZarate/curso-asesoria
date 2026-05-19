@@ -39,3 +39,5 @@ Esta matriz sirve como herramienta metodológica para estandarizar la recepción
 | 2026-05-17 | v1.1-Revisión | Antigravity AI | Se eliminan las columnas de *Área de origen*, *Acción* y *Herramienta de control*. Se introduce la columna *Tipo de Requerimiento*. | **Aprobado por el Usuario** |
 | 2026-05-17 | v1.2-Implementado | Antigravity AI | Escritura y despliegue final del diseño de la matriz en el archivo del proyecto. | **Completado** |
 | 2026-05-18 | v1.3-Obsidian | Antigravity AI | Enlace denso en Obsidian utilizando wikilinks de [[3.Escritura_obsidian\|Sintaxis Obsidian]] y frontmatter YAML. | **Completado** |
+| 2026-05-18 | v1.4-Aplicado | Antigravity AI | Procesamiento de la minuta cruda [[Puntos a tratar reunion]] y clasificación de requerimientos en 4 Historias de Usuario. | **Completado** |
+
